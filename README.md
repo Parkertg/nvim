@@ -1,2 +1,2 @@
-# starter
-Starter config for NvChad
+# Parker's NvChad based NeoVim Config
+config using NvChad
