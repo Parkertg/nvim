@@ -1,2 +1,2 @@
-# Parker's NvChad based NeoVim Config
-config using NvChad
+# NeoVim/NvChad Config
+targeted towards C#/Powershell/Python development
